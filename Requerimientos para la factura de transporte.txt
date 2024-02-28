@@ -1,0 +1,20 @@
+ASPECTOS PRINCIPALES DE LA FACTURA DE TRANPORTE
+
+1.	Objetivo: La resolución tiene como objetivo regular la factura electrónica de transporte en el país, buscando la optimización de procesos y la reducción de costos administrativos.
+2.	Ámbito de Aplicación: Se aplica a todas las personas naturales o jurídicas que presten servicios de transporte terrestre automotor de carga y de servicio público de transporte terrestre automotor de carga.
+3.	Requisitos Técnicos: La resolución establece los requisitos técnicos que deben cumplir los sistemas informáticos utilizados para la emisión, transmisión, recepción y procesamiento de la factura electrónica de transporte.
+4.	Procedimientos: Se detallan los procedimientos y plazos para la adopción de la factura electrónica de transporte, incluyendo la inscripción en el Registro Único Tributario (RUT) y la habilitación en el portal web de la DIAN.
+5.	Contenido de la Factura: Se especifica la información que debe contener la factura electrónica de transporte, como datos del remitente, destinatario, información del transporte, valores y detalles del servicio prestado.
+6.	Firma Electrónica: Se establecen los requisitos para la firma electrónica de la factura, garantizando su autenticidad, integridad y no repudio.
+7.	Almacenamiento y Conservación: Se determinan las obligaciones de almacenamiento y conservación de la factura electrónica de transporte, así como los plazos mínimos de conservación.
+
+REQUISITOS PARA LA FACTURA DE TRANSPORTE
+
+1.	Identificación del Emisor: Debe incluir la identificación del emisor de la factura electrónica de transporte, incluyendo su nombre o razón social, Número de Identificación Tributaria (NIT) y demás datos de identificación fiscal.
+2.	Identificación del Adquiriente o Receptor del Servicio: Se debe incluir la identificación del adquiriente o receptor del servicio de transporte, con su respectivo nombre o razón social, NIT y demás datos de identificación fiscal.
+3.	Descripción del Servicio de Transporte: La factura debe contener una descripción clara y detallada del servicio de transporte prestado.
+4.	Fecha de Expedición: Debe indicarse la fecha en la que se expide la factura electrónica de transporte.
+5.	Número de Factura: La factura debe contar con un número único de identificación que la distinga de las demás facturas emitidas.
+6.	Valor del Servicio de Transporte: Se debe especificar el valor total del servicio de transporte prestado, discriminando el valor base, el valor del Impuesto al Valor Agregado (IVA) y cualquier otro impuesto o descuento aplicable.
+7.	Datos del Vehículo Utilizado en el Transporte: Se deben incluir los datos del vehículo utilizado en el servicio de transporte, tales como la placa, el tipo de vehículo, la marca y demás información relevante.
+8.	Firma Digital: La factura electrónica de transporte debe contar con una firma digital o electrónica que garantice su autenticidad e integridad.
