@@ -1,0 +1,63 @@
+1. Requisitos técnicos: La resolución establece los requisitos técnicos que deben cumplir los sistemas de facturación electrónica, como la generación de archivos XML conforme al estándar establecido por la DIAN, la firma digital de las facturas, el envío y recepción a través de servicios web seguros, entre otros.
+
+* Generación de archivos XML: Las facturas electrónicas deben ser generadas en formato XML de acuerdo con el esquema establecido por la DIAN. Este formato garantiza la estructura y el contenido uniforme de las facturas, facilitando su procesamiento y validación por parte de los sistemas informáticos.
+
+* Firma digital: Las facturas electrónicas deben ser firmadas digitalmente para garantizar su autenticidad e integridad. La firma digital se utiliza para verificar la identidad del emisor y asegurar que el contenido de la factura no ha sido alterado desde su emisión.
+
+* Envío y recepción a través de servicios web seguros: Las facturas electrónicas deben ser transmitidas y recibidas a través de servicios web seguros que utilicen protocolos de comunicación cifrados y autenticados, como HTTPS. Esto garantiza la confidencialidad y la seguridad de la información durante su transmisión por Internet.
+
+* Cumplimiento de estándares técnicos definidos por la DIAN: La DIAN puede establecer estándares técnicos específicos que los sistemas de facturación electrónica deben cumplir, como el uso de ciertos algoritmos de cifrado para la firma digital, la implementación de ciertos campos obligatorios en el formato XML, entre otros.
+
+* Integración con otros sistemas: Los sistemas de facturación electrónica deben poder integrarse con otros sistemas empresariales, como sistemas de contabilidad o sistemas de gestión empresarial (ERP), para facilitar la automatización de procesos y el intercambio de información entre diferentes áreas de la empresa.
+
+2. Estructura del documento: Define la estructura y los campos obligatorios que deben incluirse en la factura electrónica, como la identificación del emisor y del receptor, la descripción de los productos o servicios, los impuestos aplicables, entre otros.
+* Identificación del emisor y del receptor: La factura electrónica debe incluir información detallada sobre el emisor (quién factura) y el receptor (quién recibe la factura). Esto incluye nombres completos o razones sociales, números de identificación tributaria (NIT), direcciones y otros datos de contacto necesarios para la identificación y localización de las partes involucradas.
+
+* Descripción de los productos o servicios: Cada línea de la factura electrónica debe detallar los productos o servicios vendidos, incluyendo su descripción, cantidad, precio unitario y cualquier otra información relevante para la transacción comercial. Esto facilita la identificación de los bienes o servicios facturados y permite su correcta contabilización y registro contable.
+
+* Impuestos aplicables: La factura electrónica debe desglosar los impuestos aplicables a la transacción, como el impuesto al valor agregado (IVA) u otros impuestos especiales, mostrando el monto de cada impuesto y su base gravable correspondiente. Esto es fundamental para el cálculo y la declaración correcta de los impuestos por parte del emisor y el receptor de la factura.
+
+* Otros datos obligatorios: Además de los elementos mencionados anteriormente, la Resolución 165 de la DIAN puede establecer otros datos obligatorios que deben incluirse en la factura electrónica, como el número de factura, la fecha de emisión, el método de pago, los términos y condiciones de la venta, entre otros.
+
+* Formato XML: Todos estos datos deben ser estructurados y codificados en un formato XML conforme al esquema definido por la DIAN, lo que garantiza la uniformidad y la interoperabilidad de las facturas electrónicas emitidas por diferentes contribuyentes.
+
+3. Procedimientos de validación y autorización: Establece los procedimientos que deben seguirse para validar y autorizar las facturas electrónicas antes de su emisión, así como para gestionar los mensajes de respuesta emitidos por la DIAN.
+
+* Validación previa a la emisión: Antes de emitir una factura electrónica, el sistema de facturación debe realizar una serie de validaciones para asegurarse de que todos los datos obligatorios estén presentes y sean correctos. Esto puede incluir la verificación de la identidad del emisor y del receptor, la validez de los números de identificación tributaria (NIT), la existencia y la integridad de los productos o servicios facturados, entre otros.
+
+* Firma digital: Una vez que la factura electrónica ha sido generada y validada, debe ser firmada digitalmente por el emisor utilizando un certificado digital válido emitido por una entidad certificadora reconocida por la DIAN. La firma digital garantiza la autenticidad e integridad del documento, así como la identidad del emisor.
+
+* Autorización por parte de la DIAN: Antes de ser enviada al receptor, la factura electrónica debe ser enviada a la DIAN para su autorización y validación final. La DIAN verificará la conformidad de la factura con las normativas y estándares establecidos, y emitirá un mensaje de respuesta indicando si la factura ha sido autorizada o rechazada.
+
+* Gestión de mensajes de respuesta: Una vez recibido el mensaje de respuesta emitido por la DIAN, el sistema de facturación debe gestionar adecuadamente la respuesta, tomando las acciones necesarias en caso de que la factura sea rechazada (por ejemplo, corrigiendo los errores detectados y volviendo a enviar la factura para su validación).
+
+* Almacenamiento y conservación: Las facturas electrónicas autorizadas deben ser almacenadas y conservadas por el emisor y el receptor de acuerdo con las disposiciones legales vigentes, garantizando su acceso y disponibilidad durante el tiempo requerido por la ley.
+
+4. Plazos y fechas de implementación: La resolución puede incluir plazos específicos para la implementación de la facturación electrónica, así como fechas límite para el cumplimiento de ciertos requisitos o la adopción de nuevas funcionalidades.
+
+* Fecha de inicio de la obligatoriedad: La resolución puede establecer una fecha a partir de la cual ciertos contribuyentes estarán obligados a emitir facturas electrónicas en lugar de facturas en papel. Esta fecha puede variar dependiendo del tamaño de la empresa, el sector económico al que pertenece y otras consideraciones relevantes.
+
+* Plazo para la adaptación de sistemas: Los contribuyentes sujetos a la obligatoriedad de la facturación electrónica tendrán un plazo determinado para adaptar sus sistemas de facturación y cumplir con los requisitos técnicos y legales establecidos por la DIAN. Este plazo puede variar dependiendo de la complejidad de los sistemas existentes y de la disponibilidad de recursos para la implementación.
+
+* Fechas límite para la migración: La resolución puede establecer fechas límite específicas para la migración de los contribuyentes al uso exclusivo de facturación electrónica, después de las cuales ya no se permitirá la emisión de facturas en papel. Estas fechas límite pueden ser progresivas, con diferentes plazos para diferentes grupos de contribuyentes.
+
+* Plazos para la adaptación de proveedores y receptores: Además de los plazos para los contribuyentes emisores de facturas electrónicas, la resolución puede establecer plazos para la adaptación de proveedores y receptores de bienes y servicios, asegurando así la interoperabilidad y el correcto funcionamiento del sistema de facturación electrónica en toda la cadena de suministro.
+
+5. Obligaciones y responsabilidades: Es importante entender las obligaciones y responsabilidades tanto del emisor como del receptor de las facturas electrónicas, así como las consecuencias de incumplimiento de las normativas establecidas.
+
+* Fecha de inicio de la obligatoriedad: La resolución puede establecer una fecha a partir de la cual ciertos contribuyentes estarán obligados a emitir facturas electrónicas en lugar de facturas en papel. Esta fecha puede variar dependiendo del tamaño de la empresa, el sector económico al que pertenece y otras consideraciones relevantes.
+
+* Plazo para la adaptación de sistemas: Los contribuyentes sujetos a la obligatoriedad de la facturación electrónica tendrán un plazo determinado para adaptar sus sistemas de facturación y cumplir con los requisitos técnicos y legales establecidos por la DIAN. Este plazo puede variar dependiendo de la complejidad de los sistemas existentes y de la disponibilidad de recursos para la implementación.
+
+* Fechas límite para la migración: La resolución puede establecer fechas límite específicas para la migración de los contribuyentes al uso exclusivo de facturación electrónica, después de las cuales ya no se permitirá la emisión de facturas en papel. Estas fechas límite pueden ser progresivas, con diferentes plazos para diferentes grupos de contribuyentes.
+
+* Plazos para la adaptación de proveedores y receptores: Además de los plazos para los contribuyentes emisores de facturas electrónicas, la resolución puede establecer plazos para la adaptación de proveedores y receptores de bienes y servicios, asegurando así la interoperabilidad y el correcto funcionamiento del sistema de facturación electrónica en toda la cadena de suministro.
+
+6. Actualizaciones y cambios: Ten en cuenta que las regulaciones pueden cambiar con el tiempo, por lo que es importante mantenerse actualizado sobre cualquier modificación en la resolución o en las políticas relacionadas con la facturación electrónica.
+* Revisiones periódicas: La DIAN puede llevar a cabo revisiones periódicas de las regulaciones y requisitos relacionados con la facturación electrónica para garantizar su adecuación y eficacia en el contexto cambiante del entorno empresarial y tecnológico. Estas revisiones pueden dar lugar a la introducción de nuevas disposiciones, la modificación de requisitos existentes o la derogación de normativas obsoletas.
+
+* Comunicación de cambios: La DIAN está obligada a comunicar cualquier cambio en las regulaciones y requisitos relacionados con la facturación electrónica a través de medios oficiales, como su sitio web, boletines informativos o circulares dirigidas a los contribuyentes y otros interesados. Es importante que las partes involucradas estén atentas a estas comunicaciones y tomen las medidas necesarias para adaptarse a los cambios introducidos.
+
+* Capacitación y formación: Ante la introducción de cambios en las regulaciones sobre facturación electrónica, la DIAN puede ofrecer capacitación y formación a los contribuyentes y otros interesados para asegurar su comprensión y cumplimiento adecuado de las nuevas disposiciones. Esta capacitación puede incluir sesiones informativas, materiales de referencia y asistencia técnica para ayudar a los usuarios a adaptarse a los cambios introducidos.
+
+* Periodo de transición: En algunos casos, la DIAN puede establecer un período de transición para permitir que los contribuyentes se adapten a los cambios introducidos en las regulaciones sobre facturación electrónica. Durante este período, se pueden aplicar ciertas medidas de flexibilidad o tolerancia para facilitar la implementación gradual de las nuevas disposiciones y minimizar el impacto en los contribuyentes.
