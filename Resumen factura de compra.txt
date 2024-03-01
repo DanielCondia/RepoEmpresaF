@@ -1,0 +1,35 @@
+FACTURA DE COMPRA ELECTRÓNICA
+La factura de compra electrónica es un documento que respalda la compra de bienes o servicios a contribuyentes que no hacen uso de los comprobantes electrónicos (régimen simplificado). Dicha factura debe ser emitida por parte de los compradores y enviada al Ministerio de Hacienda.
+
+Por ejemplo: "Un proveedor de la empresa Ejemplar emite una factura física por la contratación de sus servicios, razón por la cual la empresa Ejemplar requiere emitir la factura electrónica de compra para enviarla al Ministerio de Hacienda".
+
+¿Qué plazo tengo para emitir la factura electrónica de compra?
+
+El comprador tiene hasta 1 mes y 8 días laborables a partir de la fecha de la factura física para emitir la factura electrónica de compra ante el Ministerio de Hacienda.
+
+Formulario "Nueva factura de compra":
+
+•Contacto: elige entre tus contactos el nombre del proveedor que emite la factura.
+•Moneda: elige la moneda con la que quieres registrar la factura de compra. 
+•Actividad económica: indica la actividad económica de tu proveedor.
+•Número: ingresa el número del comprobante o factura física.
+•Fecha de compra: ingresa la fecha del comprobante o factura física.
+•Fecha de emisión: ingresa la fecha en la que emites la factura de compra electrónica.
+•Condición: elige la forma en que será pagada la factura.
+•Método de pago: despliega la lista y elige el método correspondiente.
+•Fecha de vencimiento: se refiere a la fecha tope para pagar la factura 
+•Bodega: elige en qué almacén deseas registrar el producto comprado.  
+•Cuenta contable/Ítem: si es compra de inventario selecciona el ítem que estas comprando para comercializar. Si la compra es por otro motivo selecciona la cuenta contable correspondiente como papelería, servicios públicos, entre otros. Puedes agregar cuantos ítems o cuentas desees solo debes hacer clic en "agregar línea".
+•Precio: costo del producto o servicio comprado.
+•Impuesto: se refiere al impuesto asociado en la factura, en este caso debe ser "IVA Exento" ya que el régimen simplificado no emite documentos con IVA.
+•Cantidad: selecciona la cantidad de productos que estás comprando.
+•Observación: agrega forma opcional información adicional.
+•Desc %: si tu proveedor te otorgó algún descuento puedes utilizar este campo para registrarlo.
+
+Existen varios tipos de facturas de compra:
+*Simple sin reducción;
+*Con descuento comercial o financiero, calculado sin IVA;
+*Con costes de compra accesorios, como los de transporte,
+*Seguro o comisión;
+*Con anticipos.
+
