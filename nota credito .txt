@@ -1,0 +1,20 @@
+NOTA CREDITO
+Son documentos que el vendedor expide para indicarle al cliente que tienen un saldo a su favor en otras palabras para cuando el precio
+que esta en la factura electrónica es superior al total de la compra echa por el cliente, este saldo a favor del cliente podrá ser usada 
+en compras posteriores 
+
+Hay dos maneras para aplicar le proceso de la nota crédito sin referencia a tus facturas de venta electrónicas aceptadas por los clientes.
+
+1.aplicar nota crédito desde la factura de venta 
+  - dirigirse al menú de INGRESOS en la opción Factura de venta
+  - ingresa a la factura de venta que se aplica en la nota crédito
+  - clic en la opción mas acciones y seleccionar aplicar nota 
+  . en el campo Tipo de operación verificar que este seleccionada la opción Sin referencia a factura                     
+    electrónica y completar el formulario
+   -por último dar clic en guardar y emitir 
+
+2. Aplicar nota crédito desde el módulo de notas crédito 
+  - dirigirse al menú Ingresos y seleccionar la opción notas crédito 
+  - hacer clic en el botón Nueva nota crédito
+  - completar el formulario 
+  - por último dar clic en guardar y emitir

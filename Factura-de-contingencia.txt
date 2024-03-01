@@ -1,0 +1,17 @@
+FACTURA DE CONTINGENCIA 
+Esta se activa cunando el sistema de facturación electrónica con validación previa de la DIAN queda fueras de línea y que por lo tanto no puede validar facturas electrónicas
+
+  1.	Se debe verificar la caída del sistema intentando 4 veces con un intervalo de 20 seg
+  2.  Se almacena la evidencia del fallo del servidor
+  3.  Se debe expedir la factura electrónica al adquiriente sin validación. El negocio es totalmente valido 
+  4.  Se reintenta el paso 1 pasados 30 minutos y si ya esta facturando, vuelve a facturar normalmente 
+  5.  En un lapso máximo de 48 hr debes transmitir la información de las facturas en XML de las facturas que no se validaron con la marca Factura TIPO 04
+  6.  Las facturas electrónicas trasmitidas que no tuvieron validación previa deben ir firmadas con el certificado de firma digital 
+
+CONTINGENCIA TIPO 03
+
+Esta se activa en los casos en la que el facturador electrónico o el proveedor tecnológico entre en contingencia tecnológica 
+  1. 	Previamente se debe haber solicitado una autorización de numeración de la factura de venta de talonario o de papel
+  2.	La factura de venta de talonario o papel debe cumplir con los requisitos del articulo 617 del estatuto tributario 
+  3.	En caso de contingencia se permite la expedición de la factura del talonario o palpe como soporte fiscal para el comprador y para el obligado a facturar
+  4. 	Una vez superada la contingencia se debe trasmitir las facturas de talonario o papel a la DIAN durante las próximas 48 hr siguientes de haber superado la contingencia, marcando la factura como tipo 03 y relacionando los consecutivos de papel o computadora que fueron emitidos 
