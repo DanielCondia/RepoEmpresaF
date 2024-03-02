@@ -1,0 +1,62 @@
+Definición
+
+La definición general de facturación dentro del sistema de salud se puede
+entender de dos maneras; la primera como la recopilación de los servicios
+prestados a un usuario para cuantificarlos en dinero, y la segunda como la
+actividad que permite el flujo de efectivo dentro de una entidad de salud para su
+correcto funcionamiento.
+
+Objetivo general
+
+Facturar las actividades y procedimientos realizados a cada paciente en la
+IPS, tomando en cuenta los suministros y medicamentos utilizados en cada
+uno de los servicios. Informar los ingresos con los cuales se financiará la
+institución y enviar la información necesaria para las diferentes áreas de la
+misma: Entidades Promotoras de Salud, Administradoras del Régimen
+Subsidiado, Compañías Aseguradoras, Fondo de Solidaridad y Garantías, 
+etc., colaborando de esta forma a la supervivencia, crecimiento y
+rentabilidad de la IPS.
+
+Proceso de la facturación de salud
+
+una persona se afilia a una EPS en un régimen, atendiendo a su capacidad
+económica, la cual le cobrará determinada cantidad de dinero y se le indicarán los
+servicios de salud que cubre su plan y cuáles debe pagar individualmente. Luego
+se le dará un directorio de IPS para que el afiliado sepa los lugares a los cuales
+puede acudir en caso de necesitar atención. Cuando la persona va a una IPS y es
+atendida se genera inmediatamente una recopilación de esos servicios que están
+previamente costeados, y se pueden generar 2 facturas: la que paga el usuario y
+la que va para la EPS. Según acuerdo previo entre las entidades prestadoras de
+salud, las IPS entregan las facturas generadas con cargo a las EPS cumpliendo
+ciertos requisitos exigidos por la ley para que la entidad obligada a pagar (EPS)
+cumpla en el tiempo establecido, y así la IPS tenga un flujo de caja y pueda pagar
+su nómina, mejorar infraestructura, comprar medicamentos, etc.; todo con el fin de
+poder brindar el servicio en salud. 
+
+Resumen
+
+El sistema de salud es un pilar esencial para el funcionamiento de cualquier sociedad,
+ya que es un componente clave en el ciclo de producción y prosperidad de una civilización.
+Esto se debe a que la salud de los ciudadanos es necesaria para trabajar, llevar una vida
+próspera y, por ende, producir y adquirir bienes y servicios que impulsan la economía.
+Por lo tanto, el sistema de salud es un elemento crucial en este ciclo que permite que
+una sociedad progrese, se modernice y sobreviva.
+En Colombia, este sistema de salud opera como una intrincada red de pequeñas operaciones
+con detalles muy específicos que deben seguirse para que todo funcione correctamente.
+Cada uno de estos detalles está regulado por normas, decretos, resoluciones y circulares
+que se pueden encontrar en las páginas oficiales de los Ministerios o la ADRES. Una de 
+estas operaciones, que es esencial para mantener a flote el sistema, es la correcta 
+facturación de sus servicios. Esta facturación permite evidenciar y recaudar los recursos
+necesarios para el funcionamiento del sistema. Las reglas para la facturación están en 
+constante cambio para facilitar y hacer más eficiente el sistema. Sin embargo, sin los 
+recursos adecuados por parte del gobierno y la mala gestión por parte de las entidades,
+esta compleja red no logrará cumplir con su objetivo principal: velar por la salud de 
+los ciudadanos, algo que nos afecta a todos directamente.
+Colombia es una sociedad caracterizada por una gran corrupción y una evidente falta de 
+atención por parte del Estado. Esto se refleja en la falta de recursos para la salud.
+Sin embargo, los cambios comienzan reconociendo las deficiencias, aceptando los errores
+y buscando soluciones. El acuerdo de punto final es una de estas soluciones que se 
+están implementando para el beneficio de todos los ciudadanos y de este sistema.
+A pesar de esto, muchos errores persisten y seguirán ocurriendo si no se busca
+una solución integral para los problemas más arraigados en el sistema de salud.
+
